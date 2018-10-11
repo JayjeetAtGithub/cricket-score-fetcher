@@ -1,0 +1,15 @@
+{
+  "name": "cricket-score-fetcher",
+  "version": "1.0.0",
+  "description": "A Node.JS app to fetch runs made by each team in each innings in IND vs WI Match held on 4th October , 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayjeet Chakraborty",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
+
